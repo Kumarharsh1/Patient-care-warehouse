@@ -1,0 +1,26 @@
+patient_id,first_name,last_name,age,gender,location,risk_factors
+1,Arjun,Sharma,45,M,Delhi,Smoker
+2,Priya,Verma,52,F,Mumbai,Hypertension
+3,Ravi,Patel,60,M,Bangalore,Diabetes
+4,Neha,Gupta,38,F,Chennai,Obesity
+5,Amit,Kumar,55,M,Kolkata,High Cholesterol
+6,Sunita,Mehra,49,F,Hyderabad,Hypertension
+7,Vikram,Rao,42,M,Pune,Smoker
+8,Anjali,Desai,36,F,Ahmedabad,None
+9,Deepak,Yadav,58,M,Jaipur,Diabetes
+10,Sneha,Nair,47,F,Thiruvananthapuram,Hypertension
+11,Manish,Chopra,53,M,Lucknow,Obesity
+12,Kavita,Singh,41,F,Bhopal,High Cholesterol
+13,Suresh,Iyer,65,M,Delhi,Diabetes
+14,Meena,Kaur,39,F,Mumbai,None
+15,Rajesh,Jain,50,M,Indore,Smoker
+16,Shalini,Reddy,44,F,Hyderabad,Hypertension
+17,Nitin,Bhatt,59,M,Chandigarh,Diabetes
+18,Radha,Pillai,37,F,Chennai,None
+19,Ajay,Malhotra,46,M,Kolkata,High Cholesterol
+20,Lakshmi,Menon,48,F,Thiruvananthapuram,Obesity
+21,Rohan,Shukla,40,M,Delhi,Smoker
+22,Geeta,Joshi,51,F,Pune,Hypertension
+23,Sanjay,Agarwal,56,M,Jaipur,Diabetes
+24,Pooja,Chawla,35,F,Bangalore,None
+25,Harish,Goyal,62,M,Ahmedabad,Heart Disease
