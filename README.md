@@ -37,6 +37,6 @@ patient-care-warehouse/
 5. Open `powerbi/dashboard.pbix` to visualize results
 
 ## Authors
-- Your Name  
-- Sample Team: 25 fake patients, doctors, hospitals
+- Kumar Harsh  
+- Sample Team: 25 patients, doctors, hospitals
 
