@@ -10,8 +10,8 @@ __pycache__/
 .DS_Store
 .vscode/
 
-# Data files
-/data/*.csv
-
-# Power BI file (optional: if large)
+# Ignore Power BI file (optional: if large)
 powerbi/dashboard.pbix
+
+# Allow data CSV files to be tracked
+!data/*.csv
